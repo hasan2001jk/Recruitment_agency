@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3c446b;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 14px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-family: "Arial-BoldMT";
+        font-weight: bold;
+      }
+    </style>
+  </defs>
+  <g>
+    <circle cx="40" cy="40" r="40" class="cls-1"/>
+    <text x="21" y="45" class="cls-2"><tspan class="cls-3">ЛОГО</tspan></text>
+  </g>
+</svg>
+

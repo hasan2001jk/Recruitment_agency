@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+server: nginx
+date: Mon, 01 May 2023 14:00:39 GMT
+content-type: text/css
+content-length: 0
+last-modified: Thu, 25 Nov 2021 12:06:44 GMT
+cache-control: max-age=31536000
+expires: Tue, 30 Apr 2024 14:00:39 GMT
+x-cache: incr=0, enable_cache_404=true, max_retry_404=1, ttl_cache_404=120, miss_cache_404=false
+etag: "619f7c54-0"
+accept-ranges: bytes
+
